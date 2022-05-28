@@ -1,0 +1,7 @@
+{
+  "name": "tommie-snippets",
+  "description": "A collection of snippets from TommiEng",
+  "version": "0.0.1",
+  "private": false,
+  "devDependencies": {}
+}
