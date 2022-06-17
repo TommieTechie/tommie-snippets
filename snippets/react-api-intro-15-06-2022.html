@@ -1,0 +1,25 @@
+<body>
+    <div id="root"></div>
+  
+  
+    <!-- Let's use the script files from unpkg.com to access React and ReactDOM.-->
+    <script src="https://unpkg.com/react@18.1.0/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom@18.1.0/umd/react-dom.development.js"></script>
+    
+  
+    <script type="module">
+    
+      const rootElement = document.getElementById('root');
+   
+      const elementProps = {id: "element-id", children: "Hello world, what are your pronouns? 🏳️‍🌈🏳️‍⚧️"};
+      
+      const elementType = "h2";
+      
+      const reactElement = React.createElement(elementType, elementProps);
+      
+      const root = ReactDOM.createRoot(rootElement);
+      
+      root.render(reactElement);
+  
+    </script>
+  </body>
