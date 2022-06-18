@@ -1,0 +1,18 @@
+<body>
+    <div id="root"></div>
+    
+    <script src="https://unpkg.com/react@18.1.0/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom@18.1.0/umd/react-dom.development.js"></script>
+  
+    <!-- Let's add Babel to convert the JSX into JavaScript -->
+    <script src="https://unpkg.com/@babel/standalone@7.12.4/babel.js"></script>
+  
+    <!-- The type="text/babel" is for Babel will compile for the browser. -->
+    <script type="text/babel">
+  
+      // Assign your element a class with className in JSX.
+      const element = <div className="element">My pronouns are: they/them/their 🏳️‍⚧️🏳️‍🌈</div>;
+  
+      ReactDOM.createRoot(document.getElementById("root")).render(element);
+    </script>
+  </body>
