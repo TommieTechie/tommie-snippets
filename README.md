@@ -37,6 +37,7 @@ A repository to run code snippets.
 |      Intro to JSX       | HTML, JavaScript, React |            Using JSX instead of the React API            |          [Original post](https://twitter.com/TommiEng/status/1537487443447975936?cxt=HHwWgMC4leKroNYqAAAA) and [Raw code](/snippets/jsx-babel-16-06-2022.html)          |
 |     Intro to JSDoc      |       JavaScript        |         Documenting complex functions with JSDoc         |                  [Original post](https://twitter.com/TommiEng/status/1526266768808869894) and [Raw code](/snippets/js-doc-calculate-tip-16-05-2022.js)                  |
 |     The Map object      |       JavaScript        |  Learning about the Map object and its key-value pairs   |                       [Original post](https://twitter.com/TommiEng/status/1525185808122232834) and [Raw code](/snippets/map-object-13-05-2022.js)                       |
+|        Generics         |       TypeScript        |                   TypeScript Generics                    |                  [Original post](https://twitter.com/TommiEng/status/1524476938823286785) and [Raw code](/snippets/typescript-generics-11-05-2022.ts)                   |
 
 ---
 
