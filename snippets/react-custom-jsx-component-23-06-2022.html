@@ -1,0 +1,24 @@
+<body>
+    <div id="root"></div>
+    <script src="https://unpkg.com/react@18.1.0/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom@18.1.0/umd/react-dom.development.js"></script>
+    <script src="https://unpkg.com/@babel/standalone@7.12.4/babel.js"></script>
+    
+    <script type="text/babel">
+      // We're reusing our PronounsTip component to share tips on using correct pronouns:
+      const PronounsTip = ({children}) => {
+        return <div className="pronounsTip">{children}</div>;
+      }
+
+      const element = (
+        <div className="wrapper">
+          <PronounsTip>Understand the importance of pronouns. 🏳️‍🌈</PronounsTip>
+          <PronounsTip>Always ask someone's pronouns no matter how they identify. 🏳️‍⚧️</PronounsTip>
+          <PronounsTip>Practice their new pronouns before you see them. 🏳️‍🌈</PronounsTip>
+          <PronounsTip>Correct yourself and apologize if you get their pronouns wrong. 🏳️‍⚧️</PronounsTip>
+        </div>
+      );
+
+      ReactDOM.createRoot(document.querySelector("#root")).render(element);
+    </script>
+  </body>
