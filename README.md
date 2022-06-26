@@ -41,6 +41,8 @@ A repository to run code snippets.
 |        Generics         |       TypeScript        |                   TypeScript Generics                    |                  [Original post](https://twitter.com/TommiEng/status/1524476938823286785) and [Raw code](/snippets/typescript-generics-11-05-2022.ts)                   |
 |  Spreading attributes   | HTML, JavaScript, React |           Spreading props/attributes in React            |                [Original post](https://twitter.com/TommiEng/status/1539291527125647360) and [Raw code](/snippets/react-spreading-props-21-06-2022.html)                 |
 |    Custom components    | HTML, JavaScript, React |              Creating JSX custom components              |              [Original post](https://twitter.com/TommiEng/status/1540000446445764608) and [Raw code](/snippets/react-custom-jsx-component-23-06-2022.html)              |
+|      Constructors       |       JavaScript        |                    Constructors in JS                    |                    [Original post](https://twitter.com/TommiEng/status/1522309640570257409) and [Raw code](/snippets/js-constructors-05-05-2022.js)                     |
+|   Setters and Getters   |       JavaScript        |            JS class with a setter and getter             |                  [Original post](https://twitter.com/TommiEng/status/1522645848638828544) and [Raw code](/snippets/js-oop-setter-getter-06-05-2022.js)                  |
 
 ---
 
