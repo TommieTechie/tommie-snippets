@@ -1,0 +1,17 @@
+<html>
+  
+  <h2 style="color: pink;">I'm a pink heading🦩</h2>
+
+  <script>
+    const heading = document.querySelector('h2'); 
+    const computedStyle = getComputedStyle(heading); 
+    
+    console.log(computedStyle); 
+    // This returns an object that holds a long list of all CSS properties in h2.
+    
+    console.log(computedStyle.getPropertyValue('color')); 
+    // This will output the value of h2's color property in RGB, 
+    // which is: rgb(255, 192, 203).
+  </script>
+  
+</html>
