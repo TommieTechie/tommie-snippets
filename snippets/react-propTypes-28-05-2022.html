@@ -1,0 +1,33 @@
+<body>
+    <div id="root"></div>
+    <script src="https://unpkg.com/react@18.1.0/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom@18.1.0/umd/react-dom.development.js"></script>
+    <script src="https://unpkg.com/@babel/standalone@7.12.4/babel.js"></script>
+    
+    <!-- Add the React team's prop-types package. -->
+    <script src="https://unpkg.com/prop-types@15.7.2/prop-types.js"></script>
+  
+    <script type="text/babel">
+    
+      const AdoptionRequest = ({amount, animal}) => {
+        return <div className="adoption-request">
+        I would like to adopt {amount} {animal} please.
+      </div>
+      };
+  
+      // Adding propTypes to our component. Add the isRequired feature if needed.
+      AdoptionRequest.propTypes = {
+        amount: PropTypes.number,
+        animal: PropTypes.string.isRequired,
+      };
+  
+      const element = (
+        <div className="wrapper">
+          <AdoptionRequest animal="cats🐈" />
+          <AdoptionRequest amount={3} animal="dogs🐕" />
+        </div>
+      );
+  
+      ReactDOM.createRoot(document.getElementById('root')).render(element);
+    </script>
+  </body>
