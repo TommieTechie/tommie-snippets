@@ -46,6 +46,7 @@ A repository to run code snippets.
 |   Setters and Getters   |       JavaScript        |                          JS class with a setter and getter                          |                  [Original post](https://twitter.com/TommiEng/status/1522645848638828544) and [Raw code](/snippets/js-oop-setter-getter-06-05-2022.js)                  |
 |    Template Literals    |       JavaScript        |          Template literals for string interpolation or multi-lined strings          |                  [Original post](https://twitter.com/TommiEng/status/1521195466460966913) and [Raw code](/snippets/js-template-literals-02-05-2022.js)                  |
 |    getComputedStyle     |       JavaScript        | getComputedStyle method to return an object containing an element's CSS properties. |                 [Original post](https://twitter.com/TommiEng/status/1520147838914768896) and [Raw code](/snippets/js-getComputedStyle-29-04-2022.html)                  |
+|       Math.floor        |       JavaScript        |                     Simple example of the `Math.floor()` method                     |                     [Original post](https://twitter.com/TommiEng/status/1519021253532827651) and [Raw code](/snippets/js-math-floor-26-04-2022.js)                      |
 
 ---
 
