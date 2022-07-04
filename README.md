@@ -48,7 +48,8 @@ A repository to run code snippets.
 |      Template Literals      |       JavaScript        |          Template literals for string interpolation or multi-lined strings          |                  [Original post](https://twitter.com/TommiEng/status/1521195466460966913) and [Raw code](/snippets/js-template-literals-02-05-2022.js)                  |
 |      getComputedStyle       |       JavaScript        | getComputedStyle method to return an object containing an element's CSS properties. |                 [Original post](https://twitter.com/TommiEng/status/1520147838914768896) and [Raw code](/snippets/js-getComputedStyle-29-04-2022.html)                  |
 |         Math.floor          |       JavaScript        |                     Simple example of the `Math.floor()` method                     |                     [Original post](https://twitter.com/TommiEng/status/1519021253532827651) and [Raw code](/snippets/js-math-floor-26-04-2022.js)                      |
-| Nullish coalescing operator |       JavaScript        |                     Using the Nullish coalescing operator `??`                      |             [Original post](https://twitter.com/TommiEng/status/1517563647735779328) and [Raw code](/snippets/js-nullish-coalescing-operator-22-05-2022.js)             |
+| Nullish coalescing operator |       JavaScript        |                     Using the Nullish coalescing operator `??`                      |             [Original post](https://twitter.com/TommiEng/status/1517563647735779328) and [Raw code](/snippets/js-nullish-coalescing-operator-22-04-2022.js)             |
+|       Arrow functions       |       JavaScript        |                             Arrow functions in JS `=>`                              |                  [Original thread](https://twitter.com/TommiEng/status/1517176373864980483) and [Raw code](/snippets/js-arrow-functions-21-04-2022.js)                  |
 
 ---
 
