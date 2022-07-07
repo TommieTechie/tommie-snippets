@@ -51,6 +51,7 @@ A repository to run code snippets.
 | Nullish coalescing operator |       JavaScript        |                     Using the Nullish coalescing operator `??`                      |             [Twitter post](https://twitter.com/TommiEng/status/1517563647735779328) and [Raw code](/snippets/js-nullish-coalescing-operator-22-04-2022.js)             |
 |       Arrow functions       |       JavaScript        |                             Arrow functions in JS `=>`                              |                  [Twitter thread](https://twitter.com/TommiEng/status/1517176373864980483) and [Raw code](/snippets/js-arrow-functions-21-04-2022.js)                  |
 |       Logical OR assignment       |       JavaScript        |                             Logical OR assignment in JS                              |                  [Twitter post](https://twitter.com/TommiEng/status/1516809407941726208) and [Raw code](/snippets/js-logical-or-assignment-20-04-2022.js)                  |
+|       Logical AND assignment       |       JavaScript        |                             Logical AND assignment in JS `&&=`                               |                  [Twitter post](https://twitter.com/TommiEng/status/1516809407941726208) and [Raw code](/snippets/js-logical-or-assignment-20-04-2022.js)                  |
 
 ---
 
