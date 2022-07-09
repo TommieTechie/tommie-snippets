@@ -53,6 +53,8 @@ A repository to run code snippets.
 |       Arrow functions       |       JavaScript        |                             Arrow functions in JS `=>`                              |                  [Twitter thread](https://twitter.com/TommiEng/status/1517176373864980483) and [Raw code](/snippets/js-arrow-functions-21-04-2022.js)                  |
 |       Logical OR assignment       |       JavaScript        |                             Logical OR assignment in JS                              |                  [Twitter post](https://twitter.com/TommiEng/status/1516809407941726208) and [Raw code](/snippets/js-logical-or-assignment-20-04-2022.js)                  |
 |       Logical AND assignment       |       JavaScript        |                             Logical AND assignment in JS `&&=`                               |                  [Twitter post](https://twitter.com/TommiEng/status/1516464746354155520) and [Raw code](/snippets/js-logical-and-assignment-19-04-2022.js)                  |
+|       Logical AND assignment       |       JavaScript        |                             Logical AND assignment in JS `&&=`                               |                  [Twitter post](https://twitter.com/TommiEng/status/1516464746354155520) and [Raw code](/snippets/js-logical-and-assignment-19-04-2022.js)                  |
+|       Emptying an array       |       JavaScript        |                             Empty an array in JS                               |                  [Twitter post](https://twitter.com/TommiEng/status/1515056445275971593) and [Raw code](/snippets/js-empty-array-15-04-2022.js)                  |
 
 ---
 
