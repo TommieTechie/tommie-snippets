@@ -55,6 +55,7 @@ A repository to run code snippets.
 |       Logical AND assignment       |       JavaScript        |                             Logical AND assignment in JS `&&=`                               |                  [Twitter post](https://twitter.com/TommiEng/status/1516464746354155520) and [Raw code](/snippets/js-logical-and-assignment-19-04-2022.js)                  |
 |       Logical AND assignment       |       JavaScript        |                             Logical AND assignment in JS `&&=`                               |                  [Twitter post](https://twitter.com/TommiEng/status/1516464746354155520) and [Raw code](/snippets/js-logical-and-assignment-19-04-2022.js)                  |
 |       Emptying an array       |       JavaScript        |                             Empty an array in JS                               |                  [Twitter post](https://twitter.com/TommiEng/status/1515056445275971593) and [Raw code](/snippets/js-empty-array-15-04-2022.js)                  |
+|       Factorial (recursive)       |       JavaScript        |                             Intro to recursion with a factorial function                               |                  [Twitter thread](https://twitter.com/TommiEng/status/1514640784947126285) and [Raw code](/snippets/js-recursive-factorial-14-04-2022.js)                  |
 
 ---
 
