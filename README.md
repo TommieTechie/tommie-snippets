@@ -60,6 +60,7 @@ A repository to run code snippets.
 |       Factorial (recursive)       |       JavaScript        |                             Intro to recursion with a factorial function                               |                  [Twitter thread](https://twitter.com/TommiEng/status/1514640784947126285) and [Raw code](/snippets/js-recursive-factorial-14-04-2022.js)                  |
 |       try...catch       |       JavaScript        |                             The try...catch statement                              |                  [Twitter post](https://twitter.com/TommiEng/status/1513919158005735429) and [Raw code](/snippets/js-try-catch-12-04-2022.js)                  |
 |       Promise with `setTimeout`       |       JavaScript        |                             Making your JavaScript wait for a specific amount of seconds.                              |                  [Twitter post](https://twitter.com/TommiEng/status/1513548511685619714) and [Raw code](/snippets/js-promise-setTimeout-11-04-2022.js)                  |
+|       Math object (min, max)       |       JavaScript        |                             Using the `Math.min()` and `Math.max()` object                              |                  [Twitter post](https://twitter.com/TommiEng/status/1512495469263564816) and [Raw code](/snippets/js-math-max-min-08-04-2022.js)                  |
 
 ---
 
