@@ -62,6 +62,7 @@ A repository to run code snippets.
 |       Promise with `setTimeout`       |       JavaScript        |                             Making your JavaScript wait for a specific amount of seconds.                              |                  [Twitter post](https://twitter.com/TommiEng/status/1513548511685619714) and [Raw code](/snippets/js-promise-setTimeout-11-04-2022.js)                  |
 |       Math object (min, max)       |       JavaScript        |                             Using the `Math.min()` and `Math.max()` object                              |                  [Twitter post](https://twitter.com/TommiEng/status/1512495469263564816) and [Raw code](/snippets/js-math-max-min-08-04-2022.js)                  |
 |       Set       |       JavaScript        |                             Using Set in JS object                              |                  [Twitter thread](https://twitter.com/TommiEng/status/1512128604724998144) and [Raw code](/snippets/js-set-07-04-2022.js)                  |
+|       Merging arrays       |       JavaScript        |                             Merging arrays with the spread operator                              |                  [Twitter post](https://twitter.com/TommiEng/status/1511751479123755011) and [Raw code](/snippets/js-merge-arrays-06-04-2022.js)                  |
 
 ---
 
