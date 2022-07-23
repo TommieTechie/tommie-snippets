@@ -65,6 +65,7 @@ A repository to run code snippets.
 |   Math object (min, max)    |       JavaScript        |                   Using the `Math.min()` and `Math.max()` object                    |                    [Twitter post](https://twitter.com/TommiEng/status/1512495469263564816) and [Raw code](/snippets/js-math-max-min-08-04-2022.js)                     |
 |             Set             |       JavaScript        |                               Using Set in JS object                                |                        [Twitter thread](https://twitter.com/TommiEng/status/1512128604724998144) and [Raw code](/snippets/js-set-07-04-2022.js)                        |
 |       Merging arrays        |       JavaScript        |                       Merging arrays with the spread operator                       |                    [Twitter post](https://twitter.com/TommiEng/status/1511751479123755011) and [Raw code](/snippets/js-merge-arrays-06-04-2022.js)                     |
+|      Remove duplicates      |       JavaScript        |                     How to remove duplicates inside your array.                     |               [Twitter post](https://twitter.com/TommiEng/status/1511401927053041669) and [Raw code](/snippets/js-remove-duplicates-array-05-04-2022.js)               |
 
 ---
 
