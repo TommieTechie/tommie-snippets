@@ -67,6 +67,7 @@ A repository to run code snippets.
 |       Merging arrays        |       JavaScript        |                       Merging arrays with the spread operator                       |                    [Twitter post](https://twitter.com/TommiEng/status/1511751479123755011) and [Raw code](/snippets/js-merge-arrays-06-04-2022.js)                     |
 |      Remove duplicates      |       JavaScript        |                     How to remove duplicates inside your array.                     |               [Twitter post](https://twitter.com/TommiEng/status/1511401927053041669) and [Raw code](/snippets/js-remove-duplicates-array-05-04-2022.js)               |
 |           Ternary           |       JavaScript        |                          Using the ternary operator in JS.                          |                       [Twitter post](https://twitter.com/TommiEng/status/1511035681254084611) and [Raw code](/snippets/js-ternary-04-04-2022.js)                       |
+|    Destructuring objects    |       JavaScript        |                             Destructuring objects in JS                             |               [Twitter thread](https://twitter.com/TommiEng/status/1509953546489266181) and [Raw code](/snippets/js-destructuring-objects-01-04-2022.js)               |
 
 ---
 
