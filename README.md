@@ -71,6 +71,7 @@ A repository to run code snippets.
 |    Destructuring objects    |       JavaScript        |                             Destructuring objects in JS                             |               [Twitter thread](https://twitter.com/TommiEng/status/1509953546489266181) and [Raw code](/snippets/js-destructuring-objects-01-04-2022.js)               |
 |     Transgender flag 🏳️‍⚧️     |           CSS           |                           Styles for the transgender flag                           |                    [Twitter post](https://twitter.com/TommiEng/status/1509574918261858304) and [Raw code](/snippets/css-trans-flag-31-03-2022.css)                     |
 |     Array destructuring     |       JavaScript        |                              Destructuring with arrays                              |                 [Twitter post](https://twitter.com/TommiEng/status/1509236791890620428) and [Raw code](/snippets/js-array-destructuring-30-03-2022.js)                 |
+|      `Object.entries`       |       JavaScript        |                          Using the `Object.entries` method                          |                   [Twitter post](https://twitter.com/TommiEng/status/1508850518629789702) and [Raw code](/snippets/js-object-entries-29-03-2022.js)                    |
 
 ---
 
