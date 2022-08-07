@@ -1,5 +1,4 @@
 import React from "react";
-import "./css-planet-styles.css";
 
 const mars = (
   <div
@@ -16,9 +15,31 @@ const earth = (
   </div>
 );
 
+const css = `
+  .planet {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    border-radius: 50%;
+  }
+
+  .planet--earth {
+    width: 200px;
+    height: 200px;
+    color: white;
+  }
+
+  .planet--mars {
+    width: 100px;
+    height: 100px;
+  }
+`;
+
 function App() {
   return (
     <>
+      <style>{css}</style>
       {mars}
       {earth}
     </>
