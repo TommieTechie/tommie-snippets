@@ -110,8 +110,12 @@ $ node <filename>
 
 ## Contributors
 
-- Tommie Nguyễn ([TommiEng](https://github.com/TommiEng))
-- Gui Bibeau ([GuiBibeau](https://github.com/GuiBibeau))
+<table>
+  <tr>
+    <td align="center"><a href="https://www.twitter.com/TommiEng"><img src="https://avatars.githubusercontent.com/u/49788015?v=4" width="100px;" alt=""/><br /><sub><b>Tommie Nguyễn</b></sub></a><br />   </td>
+    <td align="center"><a href="https://guibibeau.com/"><img src="https://avatars.githubusercontent.com/u/22625602?v=4" width="100px;" alt=""/><br /><sub><b>Gui Bibeau</b></sub></a><br /> 
+  </tr>
+</table>
 
 ---
 
