@@ -1,0 +1,15 @@
+div {
+    transform-origin: center;
+  }
+  /* Default value */
+  
+  p {
+    transform-origin: top left;
+  }
+  /* The transform will be applied based on the top left corner */
+  
+  span {
+    transform-origin: 50px 60px;
+  }
+  /* The transform will be applied based on 
+     the origin 50px to the right, and 60px downwards */
