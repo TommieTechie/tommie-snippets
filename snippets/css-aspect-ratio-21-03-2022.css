@@ -1,0 +1,9 @@
+div {
+    aspect-ratio: 3/1;
+  }
+  /* The div's width is three times its height */
+  
+  p {
+    aspect-ratio: 1/1;
+  }
+  /* The p element becomes a perfect square */
