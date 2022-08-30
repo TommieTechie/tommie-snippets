@@ -1,0 +1,7 @@
+div {
+    font-size: clamp(1rem, 5vw, 3rem);
+  }
+  
+  /* 
+    Clamp takes a minimum value, an ideal value, and a maximum value.
+  */
