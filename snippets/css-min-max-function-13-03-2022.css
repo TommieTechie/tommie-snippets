@@ -1,0 +1,16 @@
+/* 
+    The maximum width that the div element can have is between
+    20vw and 900px. 20vw varies with the screen's width. 
+*/
+div {
+    width: min(50vw, 300px);
+}
+
+  
+/* 
+    The span width's minimum value will be either 30vw, or          400px, depending on which width will bigger according 
+    to the max() function. 
+*/
+span {
+    width: max(30vw, 400px);
+}
