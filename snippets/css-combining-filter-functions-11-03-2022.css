@@ -1,0 +1,7 @@
+div {
+    filter: brightness(2) contrast(50%);
+  }
+  
+  span {
+    filter: brightness(25%) grayscale(0.5) blur(3px);
+  }
