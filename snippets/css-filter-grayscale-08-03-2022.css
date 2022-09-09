@@ -1,0 +1,22 @@
+/* 	
+    The default value of grayscale, 
+    meaning the original colors are kept.
+*/
+div {
+    filter: grayscale(0);
+}
+
+/* 	
+    The span element will be grayed out 
+    at half of its maximum capacity of 100%.
+*/
+span {
+    filter: grayscale(50%);
+}
+
+/* 	The maximum value of grayscale. 
+    Your element should be gray now!
+*/
+p {
+    filter: grayscale(1);
+}
