@@ -1,0 +1,15 @@
+
+/* Default contrast value */
+div {
+    filter: contrast(1);
+}
+  
+/* Half of the default contrast */
+span {
+    filter: contrast(50%);
+}
+  
+/* Twice the default contrast */
+p {
+    filter: contrast(1.5);
+}
