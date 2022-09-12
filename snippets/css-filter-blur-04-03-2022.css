@@ -1,0 +1,14 @@
+/* Default value of the blur() function */
+div {
+    filter: blur(0);
+}
+  
+/* Using length in pixels as a value */
+p {
+    filter: blur(3px);
+}
+  
+/* Rem units also work, as long as it's a length */
+span {
+    filter: blur(5rem);
+}
