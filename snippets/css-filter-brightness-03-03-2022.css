@@ -1,0 +1,14 @@
+/* Default brightness of 1 */
+div {
+    filter: brightness(1);
+}
+  
+/* 1.5 times brighter */
+p {
+    filter: brightness(1.5);
+}
+  
+/* Only 25% of the default brightness, which making it darker */
+span {
+    filter: brightness(25%);
+}
