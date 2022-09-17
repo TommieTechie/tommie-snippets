@@ -8,7 +8,7 @@ const App = () => {
     fetch("http://www.nokeynoshade.party/api/queens/winners")
       .then((response) => response.JSON())
       .then((data) => setWinners(data));
-  });
+  }, []);
 
   return <DragRaceWinners winners={winners ?? []} />;
 };
