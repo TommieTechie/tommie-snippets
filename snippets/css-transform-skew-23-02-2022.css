@@ -1,0 +1,7 @@
+.nachos {
+    transform: skew(0.10turn)
+  }
+  
+  .pierogi {
+    transform: skew(10deg, 20deg)
+  }
